@@ -9,5 +9,6 @@ namespace Sample_Application
     class Class1
     {
         Console.WriteLine("Welcome");
+        Console.WriteLine("Hello");
     }
 }

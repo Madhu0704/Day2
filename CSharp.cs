@@ -11,6 +11,7 @@ namespace Sample_Application
         static void Main(string[] args)
         {
             Console.WriteLine("Sample App");
+             Console.WriteLine("Simple");
         }
     }
 }
